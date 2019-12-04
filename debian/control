@@ -1,7 +1,7 @@
 Source: gooroom-icon-themes
 Section: gnome
 Priority: optional
-Maintainer: gooroom <gooroom@gooroom.kr>
+Maintainer: Gooroom Maintainers <gooroom@gooroom.kr>
 Build-Depends: debhelper (>=9)
 Standards-version: 3.7.2
 

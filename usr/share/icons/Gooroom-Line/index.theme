@@ -4,59 +4,53 @@ Comment=Gooroom Line Icon Theme
 Inherits=Arc
 
 # Directory list
-Directories=16x16/apps,16x16/status,22x22/status,24x24/apps,32x32/apps,32x32/status,48x48/apps,48x48/status,scalable/actions,scalable/apps,scalable/status
+Directories=16x16/actions,16x16/status,24x24/apps,24x24/status,32x32/apps,32x32/status,scalable/apps
 
-[16x16/apps]
-Context=Applications
+[16x16/actions]
+Context=Actions
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=256
+Type=Scalable
 
 [16x16/status]
 Context=Status
 Size=16
-Type=Fixed
-
-[22x22/status]
-Context=Status
-Size=22
-Type=Fixed
+MinSize=16
+MaxSize=256
+Type=Scalable
 
 [24x24/apps]
 Context=Applications
 Size=24
-Type=Fixed
+MinSize=24
+MaxSize=256
+Type=Scalable
+
+[24x24/status]
+Context=Status
+Size=24
+MinSize=24
+MaxSize=256
+Type=Scalable
 
 [32x32/apps]
 Context=Applications
 Size=32
-Type=Fixed
+MinSize=24
+MaxSize=512
+Type=Scalable
 
 [32x32/status]
 Context=Status
 Size=32
-Type=Fixed
-
-[48x48/apps]
-Context=Applications
-Size=48
-Type=Fixed
-
-[48x48/status]
-Context=Status
-Size=48
-Type=Fixed
-
-[scalable/actions]
-Size=16
-Context=Actions
+MinSize=24
+MaxSize=512
 Type=Scalable
 
 [scalable/apps]
-Size=256
 Context=Applications
-Type=Scalable
-
-[scalable/status]
-Size=16
-Context=Status
+Size=48
+MinSize=48
+MaxSize=512
 Type=Scalable
