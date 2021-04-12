@@ -1,7 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <linearGradient id="yli74ryaza" x1="0%" x2="100%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#575757"/>
+            <stop offset="100%" stop-color="#353535"/>
+        </linearGradient>
+    </defs>
     <g fill="none" fill-rule="evenodd">
-        <path fill="#3986E1" d="M0 0h48v48H0z"/>
-        <path fill="#FFF" fill-rule="nonzero" d="M35 12a3 3 0 0 0-3-3H16a3 3 0 0 0-3 3v20c.836-.628 1.874-1 3-1h16c1.126 0 2.164.372 3 1V12zM11 36V12a5 5 0 0 1 5-5h16a5 5 0 0 1 5 5v24a5 5 0 0 1-5 5H16a5 5 0 0 1-5-5zm5-3a3 3 0 0 0 0 6h16a3 3 0 0 0 0-6H16z"/>
-        <circle cx="32" cy="36" r="1" fill="#10FFCA"/>
+        <g>
+            <g>
+                <g>
+                    <path fill="url(#yli74ryaza)" d="M16 0h16c8.837 0 16 7.163 16 16v16c0 8.837-7.163 16-16 16H16C7.163 48 0 40.837 0 32V16C0 7.163 7.163 0 16 0z" transform="translate(-808 -3238) translate(60 2489) translate(748 749)"/>
+                    <path fill="#3986E1" d="M0 0H48V48H0z" transform="translate(-808 -3238) translate(60 2489) translate(748 749)"/>
+                    <path fill="#FFF" d="M35 22c3.866 0 7 3.134 7 7v4c0 3.866-3.134 7-7 7h-4c-3.866 0-7-3.134-7-7v-4c0-3.866 3.134-7 7-7zm0 2h-4c-2.761 0-5 2.239-5 5v4c0 2.761 2.239 5 5 5h4c2.761 0 5-2.239 5-5v-4c0-2.761-2.239-5-5-5zm-1 2v4h4v2h-4v4h-2v-4h-4v-2h4v-4h2z" transform="translate(-808 -3238) translate(60 2489) translate(748 749)"/>
+                    <path fill="#FFF" fill-rule="nonzero" d="M22 33v2H6c-.552 0-1-.448-1-1v-1h17zm14-23c1.598 0 2.904 1.249 2.995 2.824L39 13l.001 7.936c-.628-.312-1.299-.554-2-.713L37 13c0-.473-.329-.87-.77-.974l-.113-.02L36 12H12c-.513 0-.936.386-.993.883L11 13v17h11v2H9V13c0-1.598 1.249-2.904 2.824-2.995L12 10h24z" transform="translate(-808 -3238) translate(60 2489) translate(748 749)"/>
+                </g>
+            </g>
+        </g>
     </g>
 </svg>
