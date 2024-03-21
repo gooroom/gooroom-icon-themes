@@ -1,3 +1,10 @@
+gooroom-icon-themes (4.0.0+grm4u2) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [e4f3917f] removed debian/compat
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Thu, 21 Mar 2024 10:11:58 +0900
+
 gooroom-icon-themes (4.0.0+grm4u1) unstable; urgency=medium
 
   [ jongkyung.woo ]
