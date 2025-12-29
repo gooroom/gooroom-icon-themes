@@ -1,3 +1,9 @@
+gooroom-icon-themes (5.0.0+grm5~alpha1) unstable; urgency=medium
+
+  * Rebuild for gooroom-5.0
+
+ -- jongkyung.woo <jkwoo@gooroom.kr>  Fri, 19 Dec 2025 16:39:38 +0900
+
 gooroom-icon-themes (4.0.0+grm4u2) unstable; urgency=medium
 
   [ jongkyung.woo ]
