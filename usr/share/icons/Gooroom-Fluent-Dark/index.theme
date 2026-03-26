@@ -4,7 +4,7 @@ Comment=Gooroom icon theme based on Fluent
 Inherits=Fluent-dark
 
 # Directory list
-Directories=apps/96x96,apps/scalable,categories/24x24,categories/96x96,categories/scalable,places/scalable
+Directories=apps/96x96,apps/scalable,categories/24x24,categories/96x96,categories/scalable,places/scalable,status/symbolic
 
 [apps/96x96]
 Context=Applications
@@ -39,5 +39,12 @@ Type=Scalable
 Context=Places
 Size=48
 MinSize=16
+MaxSize=512
+Type=Scalable
+
+[status/symbolic]
+Context=Status
+Size=16
+MinSize=8
 MaxSize=512
 Type=Scalable
