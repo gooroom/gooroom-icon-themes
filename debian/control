@@ -10,6 +10,7 @@ Package: gooroom-icon-themes
 Architecture: all
 Depends: ${misc:Depends},
          arc-icon-theme,
+         fluent-icon-theme,
          hicolor-icon-theme,
          faenza-icon-theme,
          papirus-icon-theme,
