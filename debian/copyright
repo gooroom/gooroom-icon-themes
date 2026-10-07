@@ -16,3 +16,24 @@ License: GPL-2+
  .
  On Debian systems, the complete text of the GNU General Public License
  version 2 can be found in /usr/share/common-licenses/GPL-2.
+
+Files: usr/share/icons/Gooroom-Candy/*
+Copyright: Eliver Lara and the candy-icons contributors
+License: GPL-3
+ Candy icons (https://github.com/EliverLara/candy-icons), unmodified except
+ places/16/folder-library.svg, which pointed at the absent breeze-dark theme
+ and now links to places/48/folder-library.svg. Full text in
+ usr/share/icons/Gooroom-Candy/LICENSE and, on Debian systems,
+ /usr/share/common-licenses/GPL-3.
+
+Files: usr/share/icons/Gooroom-Candy/index.theme
+       usr/share/icons/Gooroom-Candy/categories/*
+       usr/share/icons/Gooroom-Candy/apps/scalable/gooroom-*
+       usr/share/icons/Gooroom-Candy/apps/scalable/gooroomupdater.svg
+       usr/share/icons/Gooroom-Candy/apps/scalable/kr.gooroom.*
+       usr/share/icons/Gooroom-Candy/apps/scalable/grac-editor.svg
+       usr/share/icons/Gooroom-Candy/apps/scalable/unknown-app.svg
+       debian/gen-gooroom-candy.py
+Copyright: 2026 Gooroom <gooroom@gooroom.kr>
+License: GPL-3
+ Drawn in the Candy icons style; regenerate with debian/gen-gooroom-candy.py.
