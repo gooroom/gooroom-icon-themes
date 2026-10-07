@@ -1,3 +1,9 @@
+gooroom-icon-themes (5.1.0+grm5u1) gooroom-5.0; urgency=medium
+
+  * [#1485] Add the Gooroom Candy icon theme, with the Gooroom app icons drawn in the same style.
+
+ -- jongkyung.woo <jkwoo@gooroom.kr>  Thu, 08 Oct 2026 08:53:02 +0900
+
 gooroom-icon-themes (5.0.0+grm5u1) gooroom-5.0; urgency=medium
 
   * local package: Release for gooroom-5.0
